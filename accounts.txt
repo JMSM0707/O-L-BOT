@@ -1,0 +1,2 @@
+open ledger wallet adresingiz 1
+open ledger wallet adresingiz 2
