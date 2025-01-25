@@ -10,7 +10,7 @@ Rasshireniyani ko'chirib olish : [Open Ledger Extension](https://chromewebstore.
   - Agar siz 1 tani tanlasangiz, avtomatik proksi bilan avtomatik ishga tushirish [foydalaning [Monosans Proxy](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/all.txt)]
   - Agar siz 2 ta tanlasangiz, qo‘lda proksi bilan avtomatik ishga tushirish [Ur shaxsiy proksini manual_proxy.txt-ga joylashtirish]
   - Avtomatik da'vo kundalik ro'yxatdan o'tish
-  - Har 30 soniyada yurak urishini avtomatik yuborish
+  - Har 30 soniyada avtomatik yuborish
   - Mavzular bilan ko'p hisoblar
 
 ## Shart
